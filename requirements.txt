@@ -8,7 +8,7 @@ Keras-Preprocessing==1.0.9
 Markdown==3.0.1
 numpy==1.21.0
 pkg-resources==0.0.0
-protobuf==3.6.1
+protobuf==3.18.3
 six==1.12.0
 tensorboard==1.12.2
 tensorflow==2.5.2
@@ -53,7 +53,7 @@ Pillow==9.0.0
 pkg-resources==0.0.0
 prometheus-client==0.6.0
 prompt-toolkit==2.0.9
-protobuf==3.6.1
+protobuf==3.18.3
 ptyprocess==0.6.0
 Pygments==2.7.4
 pyrsistent==0.14.11
